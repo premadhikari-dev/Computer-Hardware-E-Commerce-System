@@ -70,3 +70,7 @@ It includes user authentication, cart system, order processing, admin dashboard,
 5. Run on:
    http://localhost/CHES_PROJECT/public
 
+## Admin Login Details:
+    email address: admin@ches.com
+    password: admin123
+
